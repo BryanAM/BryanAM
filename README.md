@@ -2,12 +2,30 @@
 
 I'm a software developer currently working on and leading Sajeon, an opensource Korean & Dictionary application. My career started out in education where I taught English in Japan; check out the video I helped with below. If you're looking for great user-centered front-end work, reach out via my [website](https://bryan-aument.surge.sh) or [linkedin](https://www.linkedin.com/in/bryanaument/).
 
-## [Sajeon - A Korean & English Dictionary Web Application](https://www.sajeon.org)
+
+### ⚡ Technologies
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+
+
+
+### [Sajeon - A Korean & English Dictionary Web Application](https://www.sajeon.org)
 [![Sajeon](/sajeon.png)](http://www.sajeon.org)
 
 
 
-## [JET Program USA](https://jetprogramusa.org)
+### [JET Program USA](https://jetprogramusa.org)
 [![JET Program USA](https://i.ytimg.com/vi/dRjTHcz0JQw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA5IHQ5I0yeRZJR_sLJDDhRskVStg)](https://www.youtube.com/watch?v=dRjTHcz0JQw)
 
 
