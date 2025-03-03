@@ -1,10 +1,19 @@
-## Hi, I'm Bryan 👋
+# Hi, I'm Bryan 👋
 
-I'm a software developer currently working on and leading Sajeon, an opensource Korean & Dictionary application. My career started out in education where I taught English in Japan, checkout the video I helped with on [JET Program USA](https://www.youtube.com/watch?v=dRjTHcz0JQw). If you're looking for great user-centered front-end work, reach out via my [website](https://bryan-aument.surge.sh) or [linkedin](https://www.linkedin.com/in/bryanaument/).
+I'm a software developer currently working on and leading Sajeon, an opensource Korean & Dictionary application. My career started out in education where I taught English in Japan, checkout the video I helped with on [JET Program USA](https://jetprogramusa.org), Video Linked below. If you're looking for great user-centered front-end work, reach out via my [website](https://bryan-aument.surge.sh) or [linkedin](https://www.linkedin.com/in/bryanaument/).
 
 
-### Sajeon
+
+
+
+## [Sajeon](https://www.sajeon.org)
 ![Sajeon](/sajeon.png)
+
+
+
+## JET Program USA
+[![JET Program USA](https://www.youtube.com/watch?v=dRjTHcz0JQw/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=dRjTHcz0JQw))
+
 
 <!--
 **BryanAM/BryanAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
