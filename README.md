@@ -6,8 +6,8 @@ I'm a software developer currently working on and leading Sajeon, an opensource 
 
 
 
-## [Sajeon](https://www.sajeon.org)
-![Sajeon](/sajeon.png)
+## [Sajeon - A Korean & English Dictionary Web Application](https://www.sajeon.org)
+[![Sajeon](/sajeon.png)](http://www.sajeon.org)
 
 
 
