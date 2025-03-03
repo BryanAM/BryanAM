@@ -4,7 +4,7 @@ I'm a software developer currently working on and leading Sajeon, an opensource 
 
 
 ### Sajeon
-![Sajeon](https://www.sajeon.org)
+![Sajeon](/sajeon.png)
 
 <!--
 **BryanAM/BryanAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
