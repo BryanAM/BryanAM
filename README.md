@@ -1,10 +1,6 @@
 # Hi, I'm Bryan 👋
 
-I'm a software developer currently working on and leading Sajeon, an opensource Korean & Dictionary application. My career started out in education where I taught English in Japan, checkout the video I helped with on [JET Program USA](https://jetprogramusa.org), Video Linked below. If you're looking for great user-centered front-end work, reach out via my [website](https://bryan-aument.surge.sh) or [linkedin](https://www.linkedin.com/in/bryanaument/).
-
-
-
-
+I'm a software developer currently working on and leading Sajeon, an opensource Korean & Dictionary application. My career started out in education where I taught English in Japan; check out the video I helped with below. If you're looking for great user-centered front-end work, reach out via my [website](https://bryan-aument.surge.sh) or [linkedin](https://www.linkedin.com/in/bryanaument/).
 
 ## [Sajeon - A Korean & English Dictionary Web Application](https://www.sajeon.org)
 [![Sajeon](/sajeon.png)](http://www.sajeon.org)
