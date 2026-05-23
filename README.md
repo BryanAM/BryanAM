@@ -1,6 +1,6 @@
 # Hi, I'm Bryan 👋
 
-I'm a software developer currently working on and leading Teefs Prep, a study prep tool for dentists studying for the INBDE. My career started out in education where I taught English in Japan; check out the video I helped with below. If you're looking for great user-centered front-end work, reach out via my [website](https://bryan-aument.surge.sh) or [linkedin](https://www.linkedin.com/in/bryanaument/).
+I'm a software developer currently working on and leading Teefs Prep, a study prep tool for dentists studying for the INBDE. My career started out in education where I taught English in Japan; check out the video I helped with below. If you're looking for great user-centered front-end work, reach out via [linkedin](https://www.linkedin.com/in/bryanaument/).
 
 
 ### ⚡ Technologies
