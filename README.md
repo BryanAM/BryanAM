@@ -22,7 +22,7 @@ I'm a software developer currently working on and leading Teefs Prep, a study pr
 [![Teefs Prep](/teefs-landing.png)](https://www.teefsprep.com)
 
 ### [Sajeon - A Korean & English Dictionary Web Application](https://www.sajeon.org)
-[![Sajeon](/sajeon.png)](http://www.sajeon.org)
+[![Sajeon](/sajeon.png)]()
 
 
 
