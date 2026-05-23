@@ -21,7 +21,7 @@ I'm a software developer currently working on and leading Teefs Prep, a study pr
 ### [Teefs Prep - A free INBDE prep tool for dental students](https://www.teefsprep.com)
 [![Teefs Prep](/teefs-landing.png)](https://www.teefsprep.com)
 
-### [Sajeon - A Korean & English Dictionary Web Application](https://www.sajeon.org)
+### Sajeon - A Korean & English Dictionary Web Application
 [![Sajeon](/sajeon.png)]()
 
 
